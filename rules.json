@@ -2264,5 +2264,225 @@
       "urlFilter": "||cdn.commoninja.com/sdk/latest/commonninja.js",
       "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
     }
+  },
+    {
+    "id": 207,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||browser.sentry-cdn.com",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 208,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||googletagmanager.com",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 209,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||www.googletagmanager.com/gtag/js?id=G-EPK7X69JWC",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 210,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||adblock-tester.com/logo.c41e6f93.svg",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 211,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||adblock-tester.com/banners/pr_advertising_ads_banner.gif",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 212,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||adblock-tester.com/banners/pr_advertising_ads_banner.png",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 213,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||adblock-tester.com/banners/pr_advertising_ads_banner.swf",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 214,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||adblock-tester.com/site.webmanifest?v=qAJrlpKQ8p",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 215,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||adblock-tester.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 216,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||checkadblock.ru/head.inject.8b1bdd48.js",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 217,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||checkadblock.ru/logo.c41e6f93.svg",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 218,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||checkadblock.ru/banners/pr_advertising_ads_banner.gif",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 219,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||checkadblock.ru/banners/pr_advertising_ads_banner.png",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 220,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||checkadblock.ru/banners/pr_advertising_ads_banner.swf",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 221,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||profitableratecpm.com/",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 222,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||adblock-tester.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 223,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||www.pornhub.com/_xa",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 224,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||static.trafficjunky.com/invocation",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 225,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||static.trafficjunky.com/invocation",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
+  },
+    {
+    "id": 226,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "||static.trafficjunky.com/ab",
+      "resourceTypes": ["main_frame", "sub_frame", "script", "xmlhttprequest", "image", "media"]
+    }
   }
 ]
